@@ -1,4 +1,4 @@
-# Markov-Decision-Process
+# Markov Decision Process
 ​	The python program implements the MDP (Markov Decision Process) Reinforcement Learning model. It tries to determine the ideal behavior and maximize its performance towards reaching the goal. It is a type of reinforcement learning problem, where best action is chosen based on the current state. **Markov Decision Process (MDP)** model contains:
 
 - A set of possible world states S.
